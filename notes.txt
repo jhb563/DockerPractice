@@ -1,0 +1,3 @@
+6. Write test handlers for checking presence of something in DB and Cache
+7. Write Client function for API
+8. Decide on whether server needs to be running or not
